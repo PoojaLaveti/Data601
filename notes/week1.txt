@@ -1,0 +1,4 @@
+Should have returned the result inside the function instead of printing in the first question!
+Everything else looks perfect!
+
+hw: 95
