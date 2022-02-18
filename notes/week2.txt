@@ -1,0 +1,7 @@
+Should've plotted graph for heights only in lab as mentioned in the question!
+Very well done in the homework! 
+Good that you experimented with many graphs!
+However, In the final visualization in the expected format, you should've plotted graphs 2,4 and 7 from your notebook!
+
+lab: 90
+hw: 90
