@@ -1,0 +1,3 @@
+Plotting first 2 graphs using barplot would've served the purpose well!
+
+hw: 85
