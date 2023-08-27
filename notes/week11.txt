@@ -1,4 +1,0 @@
-Didn't get the expected result! Methodology was mostly correct!
-
-hw: 90
-lab: 100

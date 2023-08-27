@@ -1,5 +1,0 @@
-Errors in HW!
-Should've displayed modules along with file names!
-
-hw: 70
-lab: 100

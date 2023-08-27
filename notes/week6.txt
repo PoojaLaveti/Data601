@@ -1,5 +1,0 @@
-Make sure you limit your output!
-No graph found in homework!
-
-lab: 100
-hw: 80

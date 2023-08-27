@@ -1,5 +1,0 @@
-few cells returned incorrect output in homework!
-Well done with lab!
-
-hw: 80
-lab: 100
